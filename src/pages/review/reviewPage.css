@@ -1,0 +1,15 @@
+.reviewpage-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .review {
+    margin: 10px;
+    width: calc(25% - 20px);
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
